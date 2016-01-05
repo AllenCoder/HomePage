@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41fa02f6-7070-4793-a293-d5f909b7351d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="android.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.491921">
-              <caret line="183" column="46" selection-start-line="183" selection-start-column="46" selection-end-line="183" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.2639138">
+              <caret line="166" column="133" selection-start-line="166" selection-start-column="133" selection-end-line="166" selection-end-column="133" />
               <folding />
             </state>
           </provider>
@@ -358,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.491921">
-          <caret line="183" column="46" selection-start-line="183" selection-start-column="46" selection-end-line="183" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.2639138">
+          <caret line="166" column="133" selection-start-line="166" selection-start-column="133" selection-end-line="166" selection-end-column="133" />
           <folding />
         </state>
       </provider>
