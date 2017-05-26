@@ -180,6 +180,8 @@ limitations under the License.
 ### Android 热更新
  - [dexposed](https://github.com/alibaba/dexposed)
  - [AndFix](https://github.com/alibaba/AndFix)
+ - [微信Tinker](https://github.com/Tencent/tinker)
+ - [美团Robust](https://github.com/Meituan-Dianping/Robust)
 
 ### 安卓开发值得关注的库
  - [Android对话框](https://github.com/H07000223/FlycoDialog_Master)
@@ -211,6 +213,16 @@ limitations under the License.
  - [Android开发常用整理](https://github.com/wangjiegulu/AndroidBucket)
  - [左滑粒子删除效果](https://github.com/ZhaoKaiQiang/ParticleLayout)
  - [JSON Server：零编码快速“伪造” REST API](https://github.com/typicode/json-server)
+
+### Gradle插件相关
+- [Pre.im 一键上传插件](https://github.com/AllenCoder/UploaderPlugin)
+- [Android AAR 的 tools:replace 冲突解决插件](https://github.com/2BAB/Seal)
+- [收集的高效Gradle代码片段](https://github.com/AllenCoder/AwesomeGradle)
+
+### Kotlin专题
+- [Kotlin For Android ](http://kotlinlang.org/docs/tutorials/kotlin-android.html)
+- [Kotlin Github官网](https://github.com/JetBrains/kotlin)
+
 
 ### 安卓资源相关
  - [安卓每个版本的Drawable图标](http://androiddrawables.com/)
