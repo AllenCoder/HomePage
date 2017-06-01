@@ -183,6 +183,10 @@ limitations under the License.
  - [微信Tinker](https://github.com/Tencent/tinker)
  - [美团Robust](https://github.com/Meituan-Dianping/Robust)
 
+### RecyclerView优秀库
+- [闪烁加载视图 - ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)
+- [recyclerview-animators动画](https://github.com/wasabeef/recyclerview-animators)
+
 ### 安卓开发值得关注的库
  - [Android对话框](https://github.com/H07000223/FlycoDialog_Master)
  - [扩展的RecyclerView，拥有添加头、底等多种操作](https://github.com/tianzhijiexian/ExRecyclerView/)
@@ -314,5 +318,5 @@ limitations under the License.
  - [hack_erya](https://github.com/Bpazy/hack_erya)
  - [owncloud](https://github.com/owncloud/)
  
-###ReactNative 专题
+### ReactNative 专题
 - [ReactNative错误捕捉与处理](http://bbs.reactnative.cn/topic/627/%E9%94%99%E8%AF%AF%E6%8D%95%E6%8D%89%E4%B8%8E%E5%A4%84%E7%90%86)
