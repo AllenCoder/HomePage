@@ -182,6 +182,10 @@ limitations under the License.
  - [AndFix](https://github.com/alibaba/AndFix)
  - [微信Tinker](https://github.com/Tencent/tinker)
  - [美团Robust](https://github.com/Meituan-Dianping/Robust)
+ -
+ 
+ ### Material Design专题
+ - [MaterialShadows 图标阴影虚化](https://github.com/harjot-oberai/MaterialShadows)
 
 ### RecyclerView优秀库
 - [闪烁加载视图 - ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)
@@ -217,6 +221,7 @@ limitations under the License.
  - [Android开发常用整理](https://github.com/wangjiegulu/AndroidBucket)
  - [左滑粒子删除效果](https://github.com/ZhaoKaiQiang/ParticleLayout)
  - [JSON Server：零编码快速“伪造” REST API](https://github.com/typicode/json-server)
+ - [Aria 文件下载](https://github.com/AriaLyy/Aria)
 
 ### Gradle插件相关
 - [Pre.im 一键上传插件](https://github.com/AllenCoder/UploaderPlugin)
