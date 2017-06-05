@@ -222,6 +222,7 @@ limitations under the License.
  - [左滑粒子删除效果](https://github.com/ZhaoKaiQiang/ParticleLayout)
  - [JSON Server：零编码快速“伪造” REST API](https://github.com/typicode/json-server)
  - [Aria 文件下载](https://github.com/AriaLyy/Aria)
+ - [Android Hook框架](https://github.com/asLody/legend)
 
 ### Gradle插件相关
 - [Pre.im 一键上传插件](https://github.com/AllenCoder/UploaderPlugin)
@@ -325,3 +326,7 @@ limitations under the License.
  
 ### ReactNative 专题
 - [ReactNative错误捕捉与处理](http://bbs.reactnative.cn/topic/627/%E9%94%99%E8%AF%AF%E6%8D%95%E6%8D%89%E4%B8%8E%E5%A4%84%E7%90%86)
+
+
+### 更新日志
+- 2017/6/5 添加Android Hook框架（Legend）
