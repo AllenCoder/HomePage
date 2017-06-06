@@ -223,6 +223,8 @@ limitations under the License.
  - [JSON Server：零编码快速“伪造” REST API](https://github.com/typicode/json-server)
  - [Aria 文件下载](https://github.com/AriaLyy/Aria)
  - [Android Hook框架](https://github.com/asLody/legend)
+ - [Android WebView 功能完善小型浏览器库](https://github.com/Justson/AgentWeb)
+ - [360 安全WebView](https://github.com/seven456/SafeWebView)
 
 ### Gradle插件相关
 - [Pre.im 一键上传插件](https://github.com/AllenCoder/UploaderPlugin)
@@ -329,4 +331,5 @@ limitations under the License.
 
 
 ### 更新日志
+- 2017/6/6 添加Android WebView框架
 - 2017/6/5 添加Android Hook框架（Legend）
