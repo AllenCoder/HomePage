@@ -226,6 +226,8 @@ limitations under the License.
  - [Android WebView 功能完善小型浏览器库](https://github.com/Justson/AgentWeb)
  - [360 安全WebView](https://github.com/seven456/SafeWebView)
  - [GuideView遮罩式的导航页](https://github.com/binIoter/GuideView)
+ - [Android引导页(AppIntro)](https://github.com/apl-devs/AppIntro)
+ - [View提示View (ViewTooltip)](https://github.com/florent37/ViewTooltip)
 
 ### Gradle插件相关
 - [Pre.im 一键上传插件](https://github.com/AllenCoder/UploaderPlugin)
@@ -332,5 +334,6 @@ limitations under the License.
 
 
 ### 更新日志
-- 2017/6/6 添加Android WebView框架,遮罩式的导航页
-- 2017/6/5 添加Android Hook框架（Legend）
+- 2017/6/12 添加Android引导页(AppIntro),View提示View (ViewTooltip)
+- 2017/6/6   添加Android WebView框架,遮罩式的导航页
+- 2017/6/5   添加Android Hook框架（Legend）
