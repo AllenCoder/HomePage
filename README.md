@@ -1,20 +1,4 @@
-###
-#License
-```
-Copyright 2016 AllenCoder
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
 
 ###
 ## Android 开发中的日常积累
@@ -321,6 +305,7 @@ limitations under the License.
  - [一个手势库](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin)
  - [bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle)
  - [基于Codeigniter的CMS系统](https://github.com/znddzxx112/bitcms)
+ - [可以使任意一个目录成为服务器的目录，完全抛开后台的沉重工程，直接运行想要的js代码](https://github.com/indexzero/http-server)
 
 ### 其他
  - [google hosts](http://laod.cn/hosts/2015-google-hosts.html)
@@ -334,6 +319,24 @@ limitations under the License.
 
 
 ### 更新日志
+- 2017/6/19 添加node.js版的htp-server 一行代码实现文件服务器
 - 2017/6/12 添加Android引导页(AppIntro),View提示View (ViewTooltip)
 - 2017/6/6   添加Android WebView框架,遮罩式的导航页
 - 2017/6/5   添加Android Hook框架（Legend）
+
+### License
+```
+Copyright 2016 AllenCoder
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
