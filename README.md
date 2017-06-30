@@ -75,6 +75,7 @@
  - [如何为drawable着色](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0824/3356.html)
  - [Drawable 着色的后向兼容方案](http://www.race604.com/tint-drawable/)
  - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+ - [防止截屏思路](https://juejin.im/post/594fe55d5188250d957612da?utm_source=gold_browser_extension)
 
  
 ### Android 开源软件
@@ -212,6 +213,11 @@
  - [GuideView遮罩式的导航页](https://github.com/binIoter/GuideView)
  - [Android引导页(AppIntro)](https://github.com/apl-devs/AppIntro)
  - [View提示View (ViewTooltip)](https://github.com/florent37/ViewTooltip)
+ - [android 获取帧率fps](https://github.com/wasabeef/Takt)
+
+
+### iOS 值得关注的库
+-[iOS图像识别](https://github.com/artemnovichkov/iOS-11-by-Examples)
 
 ### Gradle插件相关
 - [Pre.im 一键上传插件](https://github.com/AllenCoder/UploaderPlugin)
@@ -306,6 +312,7 @@
  - [bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle)
  - [基于Codeigniter的CMS系统](https://github.com/znddzxx112/bitcms)
  - [可以使任意一个目录成为服务器的目录，完全抛开后台的沉重工程，直接运行想要的js代码](https://github.com/indexzero/http-server)
+ - [Collect.js 超级好用的 js 库](https://github.com/ecrmnn/collect.js)
 
 ### 其他
  - [google hosts](http://laod.cn/hosts/2015-google-hosts.html)
@@ -319,6 +326,9 @@
 
 
 ### 更新日志
+- 2017/6/30 android 获取帧率fps
+- 2017/6/26 添加iOS图像识别库 ，android 防截屏思路
+- 2017/6/23 添加Collect.js 库
 - 2017/6/19 添加node.js版的htp-server 一行代码实现文件服务器
 - 2017/6/12 添加Android引导页(AppIntro),View提示View (ViewTooltip)
 - 2017/6/6   添加Android WebView框架,遮罩式的导航页
