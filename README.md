@@ -173,8 +173,11 @@
  - []()
 
 ### Android 定位地图相关
- -[GPS log](https://github.com/mendhak/gpslogger)
- 
+ - [GPS记录日志](https://github.com/mendhak/gpslogger)
+ - [高德LBS开放平台](https://github.com/amapapi?tab=repositories)
+ - [GPS修改器](https://github.com/xiangtailiang/FakeGPS)
+ - [Gps Emulator android studio插件]
+ - [高德地图平滑移动](https://github.com/facexxyz/SmoothMove)
  
  
  
