@@ -166,7 +166,17 @@
  - [AndFix](https://github.com/alibaba/AndFix)
  - [微信Tinker](https://github.com/Tencent/tinker)
  - [美团Robust](https://github.com/Meituan-Dianping/Robust)
- -
+ 
+ ### Android 安全权限相关
+ 
+ - [软件自启动 ](https://github.com/HLQ-Struggle/SkipSelfStartManager)
+ - []()
+
+### Android 定位地图相关
+ -[GPS log](https://github.com/mendhak/gpslogger)
+ 
+ 
+ 
  
  ### Material Design专题
  - [MaterialShadows 图标阴影虚化](https://github.com/harjot-oberai/MaterialShadows)
