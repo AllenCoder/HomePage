@@ -5,7 +5,6 @@ draft: true
 ---
 
 
-
 ###
 ## Android 开发中的日常积累
 
@@ -81,7 +80,6 @@ draft: true
  - [如何为drawable着色](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0824/3356.html)
  - [Drawable 着色的后向兼容方案](http://www.race604.com/tint-drawable/)
  - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
- - [防止截屏思路](https://juejin.im/post/594fe55d5188250d957612da?utm_source=gold_browser_extension)
 
  
 ### Android 开源软件
@@ -173,7 +171,20 @@ draft: true
  - [AndFix](https://github.com/alibaba/AndFix)
  - [微信Tinker](https://github.com/Tencent/tinker)
  - [美团Robust](https://github.com/Meituan-Dianping/Robust)
- -
+ 
+ ### Android 安全权限相关
+ 
+ - [软件自启动 ](https://github.com/HLQ-Struggle/SkipSelfStartManager)
+ - []()
+
+### Android 定位地图相关
+ - [GPS记录日志](https://github.com/mendhak/gpslogger)
+ - [高德LBS开放平台](https://github.com/amapapi?tab=repositories)
+ - [GPS修改器](https://github.com/xiangtailiang/FakeGPS)
+ - [Gps Emulator android studio插件]
+ - [高德地图平滑移动](https://github.com/facexxyz/SmoothMove)
+ 
+ 
  
  ### Material Design专题
  - [MaterialShadows 图标阴影虚化](https://github.com/harjot-oberai/MaterialShadows)
@@ -219,11 +230,6 @@ draft: true
  - [GuideView遮罩式的导航页](https://github.com/binIoter/GuideView)
  - [Android引导页(AppIntro)](https://github.com/apl-devs/AppIntro)
  - [View提示View (ViewTooltip)](https://github.com/florent37/ViewTooltip)
- - [android 获取帧率fps](https://github.com/wasabeef/Takt)
-
-
-### iOS 值得关注的库
--[iOS图像识别](https://github.com/artemnovichkov/iOS-11-by-Examples)
 
 ### Gradle插件相关
 - [Pre.im 一键上传插件](https://github.com/AllenCoder/UploaderPlugin)
@@ -318,7 +324,6 @@ draft: true
  - [bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle)
  - [基于Codeigniter的CMS系统](https://github.com/znddzxx112/bitcms)
  - [可以使任意一个目录成为服务器的目录，完全抛开后台的沉重工程，直接运行想要的js代码](https://github.com/indexzero/http-server)
- - [Collect.js 超级好用的 js 库](https://github.com/ecrmnn/collect.js)
 
 ### 其他
  - [google hosts](http://laod.cn/hosts/2015-google-hosts.html)
@@ -332,27 +337,11 @@ draft: true
 
 
 ### 更新日志
-- 2017/6/30 android 获取帧率fps
-- 2017/6/26 添加iOS图像识别库 ，android 防截屏思路
-- 2017/6/23 添加Collect.js 库
 - 2017/6/19 添加node.js版的htp-server 一行代码实现文件服务器
 - 2017/6/12 添加Android引导页(AppIntro),View提示View (ViewTooltip)
 - 2017/6/6   添加Android WebView框架,遮罩式的导航页
 - 2017/6/5   添加Android Hook框架（Legend）
 
-### License
-```
-Copyright 2016 AllenCoder
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
 
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
+## © CopyRight 2002-2019, devcoder.cn [豫ICP备17026319号-1](http://beian.miit.gov.cn)
