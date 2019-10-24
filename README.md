@@ -354,4 +354,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-# © CopyRight 2002-2019, devcoder.cn, Inc.All Rights Reserved.豫ICP备17026319号-1
+## © CopyRight 2002-2019, devcoder.cn [豫ICP备17026319号-1](http://beian.miit.gov.cn)
