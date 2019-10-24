@@ -304,3 +304,6 @@ limitations under the License.
  
 ###ReactNative 专题
 - [ReactNative错误捕捉与处理](http://bbs.reactnative.cn/topic/627/%E9%94%99%E8%AF%AF%E6%8D%95%E6%8D%89%E4%B8%8E%E5%A4%84%E7%90%86)
+
+## © CopyRight 2002-2019, devcoder.cn [豫ICP备17026319号-1](http://beian.miit.gov.cn)
+
