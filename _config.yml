@@ -2,7 +2,7 @@ title: Allen博客专栏
 description: 专注敏捷开发，专注移动互动互联网！
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-merlot
 
 gems:
   - jekyll-mentions
